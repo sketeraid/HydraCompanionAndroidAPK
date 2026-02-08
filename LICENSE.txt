@@ -1,8 +1,4 @@
-Here’s a clean, professional **proprietary license** you can drop straight into your repo. It keeps ownership, forbids redistribution, and protects your APK and code without being overly legal‑ese.
-
----
-
-Hydra Companion – Proprietary License
+HydraCompanion – Proprietary License
 
 2026 Jamie (sketeraid)  
 All rights reserved.
