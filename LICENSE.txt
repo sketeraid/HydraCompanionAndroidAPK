@@ -1,0 +1,23 @@
+Here’s a clean, professional **proprietary license** you can drop straight into your repo. It keeps ownership, forbids redistribution, and protects your APK and code without being overly legal‑ese.
+
+---
+
+Hydra Companion – Proprietary License
+
+2026 Jamie (sketeraid)  
+All rights reserved.
+
+Hydra Companion, including its source code, compiled APK, assets, and all related files, is proprietary software. No part of this project may be copied, modified, distributed, sold, or used in any derivative works without explicit written permission from the owner.
+
+You are granted a personal, non‑transferable, non‑exclusive license to download and use the provided APK for your own private use. You may not:
+
+- redistribute the APK or any part of this project  
+- reverse‑engineer, decompile, or modify the application  
+- use the code or assets in your own projects  
+- upload or publish the APK elsewhere  
+
+Game data references, and related content remain the property of their respective owners.
+
+Use of this software is provided “as is” without warranty of any kind.
+
+This release is provided for personal use only and is not licensed for commercial use.

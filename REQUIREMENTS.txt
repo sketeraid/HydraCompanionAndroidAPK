@@ -1,0 +1,1 @@
+Requires Android 12 (Snow Cone) or higher.
